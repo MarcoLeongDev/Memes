@@ -1,5 +1,5 @@
 # App Info
-ios_app_id                                : 1436810437                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1459479205                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
@@ -16,15 +16,15 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
-your_link                                 : https://emilbaehr.com                     
-your_city                                 : Copenhagen                                
-email_address                             : emil.baehr@gmail.com
+your_name                                 : Marco S.I. Leong                                
+your_link                                 : https://marco-leong.com/ 
+your_city                                 : Sydney                                
+email_address                             : marcoleong.developer@gmail.com
 facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
-github_username                           : emilbaehr
-youtube_username                          :
+instagram_username                        : 
+twitter_username                          : MarcoLeongDev
+github_username                           : MarcoLeongDev
+youtube_username                          : 
 
 
 
