@@ -1,12 +1,12 @@
 # App Info
-ios_app_id                                : 1459479205                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1436810437 #1459479205                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : #assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Memes                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Live fast, troll hard.
@@ -20,8 +20,8 @@ your_name                                 : Marco S.I. Leong
 your_link                                 : https://marco-leong.com/ 
 your_city                                 : Sydney                                
 email_address                             : marcoleong.developer@gmail.com
-facebook_username                         :                                           
-instagram_username                        : 
+facebook_username                         : MarcoLeongDev                                      
+instagram_username                        : MarcoLeongDev
 twitter_username                          : MarcoLeongDev
 github_username                           : MarcoLeongDev
 youtube_username                          : 
