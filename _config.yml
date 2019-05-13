@@ -36,51 +36,51 @@ features                                  :
 
   - title                                 : Top memes template
     description                           : Be on top of your meme game with the access to top 100 templates, thanks to the courtesy of Imgflip API and more in the future.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : cloud
     
   - title                                 : Image and text anywhere
     description                           : Images and textboxes can be move around the canvas
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : arrows
 
   - title                                 : Light and Dark mode
     description                           : Because here is daytime and nighttime, duh
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : sun-o
 
   - title                                 : Textbox always on top
     description                           : Everything you tap the background canvas, textboxes are popped to top
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : arrow-up
 
   - title                                 : Auto trimming
     description                           : Auto trimming upon sharing, just put images and text anywhere on the canvas
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : scissors
 
   - title                                 : Remove ads
     description                           : Get rid of ads and support the development of Memes iOS, by unlocking the advanced setting IAP.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : times
 
   - title                                 : Remove watermark
     description                           : Remove watermarkt and support the development of Memes iOS, by unlocking the advanced setting IAP.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : tint
 
   - title                                 : Customised Signature
     description                           : Use your own text for watermark, by unlocking the advanced setting IAP.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : pencil
 
   - title                                 : Buy me a coffee
     description                           : Those who got the advanced settings, when they get some Reddit gold, they can share the love as well.
     fontawesome_icon_name                 : magic
     
   - title                                 : Statistic
-    description                           : There is <strong>scientifically</strong> show how much you love making memes.
-    fontawesome_icon_name                 : magic
+    description                           : There is scientifically show how much you love making memes.
+    fontawesome_icon_name                 : coffee
 
   - title                                 : Recent image
     description                           : Remix, reused, recreate memes from recent images!
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : clock-o
 
   - title                                 : Easter Egg!?
     description                           : ...!?
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : fa-egg
 
   
   
