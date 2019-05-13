@@ -28,49 +28,50 @@ youtube_username                          :
 
 
 
+
+
+
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Top memes template
+    description                           : Be on top of your meme game with the access to top 100 templates, thanks to the courtesy of Imgflip API and more in the future.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Image and text anywhere
+    description                           : Images and textboxes can be move around the canvas
+    fontawesome_icon_name                 : magic
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Light and Dark mode
+    description                           : Because here is daytime and nighttime, duh
+    fontawesome_icon_name                 : magic
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Textbox always on top
+    description                           : Everything you tap the background canvas, textboxes are popped to top
+    fontawesome_icon_name                 : magic
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Auto trimming
+    description                           : Auto trimming upon sharing, just put images and text anywhere on the canvas
+    fontawesome_icon_name                 : magic
+
+  - title                                 : Remove ads
+    description                           : Remove ads and support the development of Memes iOS, by unlocking the advanced setting IAP.
+    fontawesome_icon_name                 : magic
+
+  - title                                 : Remove watermark
+    description                           : Remove watermarkt and support the development of Memes iOS, by unlocking the advanced setting IAP.
+    fontawesome_icon_name                 : magic
+
+  - title                                 : Customised Signature
+    description                           : Use your own text for watermark, by unlocking the advanced setting IAP.
+    fontawesome_icon_name                 : magic
+
+  - title                                 : Statistic
+    description                           : Because there is nothing to know how crazy you are about making Memes
+    fontawesome_icon_name                 : magic
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
+  
+  
 
 
 # Theme Settings
