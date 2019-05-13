@@ -55,7 +55,7 @@ features                                  :
     fontawesome_icon_name                 : magic
 
   - title                                 : Remove ads
-    description                           : Remove ads and support the development of Memes iOS, by unlocking the advanced setting IAP.
+    description                           : Get rid of ads and support the development of Memes iOS, by unlocking the advanced setting IAP.
     fontawesome_icon_name                 : magic
 
   - title                                 : Remove watermark
@@ -66,9 +66,22 @@ features                                  :
     description                           : Use your own text for watermark, by unlocking the advanced setting IAP.
     fontawesome_icon_name                 : magic
 
-  - title                                 : Statistic
-    description                           : Because there is nothing to know how crazy you are about making Memes
+  - title                                 : Buy me a coffee
+    description                           : Those who got the advanced settings, when they get some Reddit gold, they can share the love as well.
     fontawesome_icon_name                 : magic
+    
+  - title                                 : Statistic
+    description                           : There is <strong>scientifically</strong> show how much you love making memes.
+    fontawesome_icon_name                 : magic
+
+  - title                                 : Recent image
+    description                           : Remix, reused, recreate memes from recent images!
+    fontawesome_icon_name                 : magic
+
+  - title                                 : Easter Egg!?
+    description                           : ...!?
+    fontawesome_icon_name                 : magic
+
   
   
   
