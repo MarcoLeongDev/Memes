@@ -36,7 +36,7 @@ features                                  :
 
   - title                                 : Top memes template
     description                           : Be on top of your meme game with the access to top 100 templates, thanks to the courtesy of Imgflip API and more in the future.
-    fontawesome_icon_name                 : cloud
+    fontawesome_icon_name                 : cat
     
   - title                                 : Image and text anywhere
     description                           : Images and textboxes can be move around the canvas
