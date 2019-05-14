@@ -93,8 +93,12 @@ privacy                                   :
 
   - title                                 : Policy 2
     body                                  : some policy 2
-  
-  
+
+  - title                                 : Policy 3
+    body                                  : some policy 3
+
+  - title                                 : Policy 4
+    body                                  : some policy 4
 
 
 # Theme Settings
