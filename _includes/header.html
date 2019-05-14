@@ -19,10 +19,10 @@
 			<li><a href="{{ site.presskit_download_link }}">Press Kit</a></li>
 			{% endif %}
 		</ul>
-	</nav>
-	<nav>
 		<ul>
-			<li><a href="https://marco-leong.com/privacy_memes">Privacy Policies</a></li>
+			{% if site.privacy_link %}
+			<li><a href="{{ site.privacy_link }}">Privacy Policies</a></li>
+			{% endif %}
 		</ul>
 	</nav>
 </header>
