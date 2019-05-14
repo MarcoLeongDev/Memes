@@ -85,21 +85,6 @@ features                                  :
     description                           : ...!?
     fontawesome_icon_name                 : egg
 
-# Privacy List                            Edit, add or remove features to be presented.
-privacy                                   :
-
-  - title                                 : Policy 1
-    body                                  : some policy 1
-
-  - title                                 : Policy 2
-    body                                  : some policy 2
-
-  - title                                 : Policy 3
-    body                                  : some policy 3
-
-  - title                                 : Policy 4
-    body                                  : some policy 4
-
 
 # Theme Settings
 topbar_color                              : "#000000"
