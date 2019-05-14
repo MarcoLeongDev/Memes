@@ -85,7 +85,14 @@ features                                  :
     description                           : ...!?
     fontawesome_icon_name                 : egg
 
-  
+# Privacy List                            Edit, add or remove features to be presented.
+privacy                                   :
+
+  - title                                 : Policy 1
+    body                                  : some policy 1
+
+  - title                                 : Policy 2
+    body                                  : some policy 2
   
   
 
