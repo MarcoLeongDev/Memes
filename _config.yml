@@ -41,6 +41,10 @@ features                                  :
   - title                                 : Image and text anywhere
     description                           : Images and textboxes can be move around the canvas
     fontawesome_icon_name                 : arrows-alt
+  
+  - title                                 : Recent image
+    description                           : Remix, reused, recreate memes from recent images!
+    fontawesome_icon_name                 : clock
 
   - title                                 : Light and Dark mode
     description                           : Because here is daytime and nighttime, duh
@@ -73,10 +77,6 @@ features                                  :
   - title                                 : Statistic
     description                           : There is scientifically show how much you love making memes.
     fontawesome_icon_name                 : chart-line
-
-  - title                                 : Recent image
-    description                           : Remix, reused, recreate memes from recent images!
-    fontawesome_icon_name                 : clock
 
   - title                                 : Easter Egg!?
     description                           : ...!?
