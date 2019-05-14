@@ -40,11 +40,11 @@ features                                  :
     
   - title                                 : Image and text anywhere
     description                           : Images and textboxes can be move around the canvas
-    fontawesome_icon_name                 : arrow-alt
+    fontawesome_icon_name                 : arrows-alt
 
   - title                                 : Light and Dark mode
     description                           : Because here is daytime and nighttime, duh
-    fontawesome_icon_name                 : sun-o
+    fontawesome_icon_name                 : adjust
 
   - title                                 : Textbox always on top
     description                           : Everything you tap the background canvas, textboxes are popped to top
@@ -64,7 +64,7 @@ features                                  :
 
   - title                                 : Customised Signature
     description                           : Use your own text for watermark, by unlocking the advanced setting IAP.
-    fontawesome_icon_name                 : pencil
+    fontawesome_icon_name                 : pencil-alt
 
   - title                                 : Buy me a coffee
     description                           : Those who got the advanced settings, when they get some Reddit gold, they can share the love as well.
@@ -72,7 +72,7 @@ features                                  :
     
   - title                                 : Statistic
     description                           : There is scientifically show how much you love making memes.
-    fontawesome_icon_name                 : analytics
+    fontawesome_icon_name                 : chart-line
 
   - title                                 : Recent image
     description                           : Remix, reused, recreate memes from recent images!
