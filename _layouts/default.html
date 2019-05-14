@@ -62,9 +62,9 @@
                             {% if site.appstore_link %}
                             <a class="appStoreLink" href=""><img class="appStore" src="assets/appstore.png"></a>
                             {% endif %}
-                            <!-- {% if site.testflight_link %} -->
-                            <a class="appStoreLink" href="https://testflight.apple.com/join/Cajlhz4X"><img class="appStore" src="assets/appstore.png"></a>
-                            <!-- {% endif %} -->
+                            {% if site.testflight_link %}
+                            <a class="testflightLink" href="{{ site.app_description }}"><img class="appStore" src="assets/testflight.png">Testflight Beta Testing Now</a>
+                            {% endif %}
                         </div>
                     </div>
                     {% include features.html %}
