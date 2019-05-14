@@ -357,13 +357,24 @@ nav > ul li a:active {
 	
 } 
 
+.containerBox {
+	grid-area: c;
+	display: flex;
+	flex: 0 1 auto;
+	align-content: flex-start;
+	justify-content: flex-start;
+	flex-grow: 1;
+	flex-wrap: wrap;
+	margin-top: 93px;
+}
+
 
 .bodyBox {
 	display: flex;
 	padding-top: 63px;
 	padding-left: 15px;
 	padding-right: 15px;
-	width: 500px;
+	width: 600px;
 }
 
 
