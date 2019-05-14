@@ -40,7 +40,7 @@ features                                  :
     
   - title                                 : Image and text anywhere
     description                           : Images and textboxes can be move around the canvas
-    fontawesome_icon_name                 : arrows
+    fontawesome_icon_name                 : arrow-alt
 
   - title                                 : Light and Dark mode
     description                           : Because here is daytime and nighttime, duh
@@ -52,7 +52,7 @@ features                                  :
 
   - title                                 : Auto trimming
     description                           : Auto trimming upon sharing, just put images and text anywhere on the canvas
-    fontawesome_icon_name                 : scissors
+    fontawesome_icon_name                 : cut
 
   - title                                 : Remove ads
     description                           : Get rid of ads and support the development of Memes iOS, by unlocking the advanced setting IAP.
@@ -68,19 +68,19 @@ features                                  :
 
   - title                                 : Buy me a coffee
     description                           : Those who got the advanced settings, when they get some Reddit gold, they can share the love as well.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : coffee
     
   - title                                 : Statistic
     description                           : There is scientifically show how much you love making memes.
-    fontawesome_icon_name                 : coffee
+    fontawesome_icon_name                 : analytics
 
   - title                                 : Recent image
     description                           : Remix, reused, recreate memes from recent images!
-    fontawesome_icon_name                 : clock-o
+    fontawesome_icon_name                 : clock
 
   - title                                 : Easter Egg!?
     description                           : ...!?
-    fontawesome_icon_name                 : fa-egg
+    fontawesome_icon_name                 : egg
 
   
   
