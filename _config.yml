@@ -39,19 +39,19 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Top memes template
-    description                           : <image src="assets/template.png" width="280"/> Be on top of your meme game with the access to top 100 templates, thanks to the courtesy of Imgflip API and more in the future.
+    description                           : <image src="assets/features/template.png" width="280"/> Be on top of your meme game with the access to top 100 templates, thanks to the courtesy of Imgflip API and more in the future.
     fontawesome_icon_name                 : cat
     
   - title                                 : Image and text anywhere
-    description                           : <image src="assets/anywhere.jpg" width="280"/>
+    description                           : <image src="assets/features/anywhere.jpg" width="280"/>
     fontawesome_icon_name                 : arrows-alt
   
   - title                                 : Recent image
-    description                           : <image src="assets/recent.png" width="280"/>
+    description                           : <image src="assets/features/recent.png" width="280"/>
     fontawesome_icon_name                 : clock
 
   - title                                 : Light and Dark mode
-    description                           : <image src="assets/lightdark.png" width="280"/>
+    description                           : <image src="assets/features/lightdark.png" width="280"/>
     fontawesome_icon_name                 : adjust
 
   - title                                 : Textbox always on top
