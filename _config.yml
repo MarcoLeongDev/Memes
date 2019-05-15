@@ -63,7 +63,7 @@ features                                  :
     fontawesome_icon_name                 : cut
 
   - title                                 : Remove ads
-    description                           : <image class="dropshadow" src="assets/features/ads.png" width="280"/>
+    description                           : <image class="dropshadow" src="assets/features/ads.jpg" width="280"/>
     fontawesome_icon_name                 : times
 
   - title                                 : Remove watermark
