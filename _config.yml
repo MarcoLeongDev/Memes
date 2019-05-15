@@ -79,8 +79,7 @@ features                                  :
     fontawesome_icon_name                 : coffee
     
   - title                                 : Statistic
-    description                           : <image src="assets/features/stat
-    .jpg" width="280"/>
+    description                           : <image src="assets/features/stat.jpg" width="280"/>
     fontawesome_icon_name                 : chart-line
 
   - title                                 : Easter Egg!?
