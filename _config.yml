@@ -39,47 +39,47 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Top memes template
-    description                           : <image src="assets/features/template.png" width="280"/>
+    description                           : <image class="dropshadow" src="assets/features/template.png" width="280"/>
     fontawesome_icon_name                 : cat
     
   - title                                 : Image and text anywhere
-    description                           : <image src="assets/features/anywhere.jpg" width="280"/>
+    description                           : <image class="dropshadow" src="assets/features/anywhere.jpg" width="280"/>
     fontawesome_icon_name                 : arrows-alt
   
   - title                                 : Recent image
-    description                           : <image src="assets/features/recent.jpg" width="280"/>
+    description                           : <image class="dropshadow" src="assets/features/recent.jpg" width="280"/>
     fontawesome_icon_name                 : clock
 
   - title                                 : Light and Dark mode
-    description                           : <image src="assets/features/lightdark.png" width="280"/>
+    description                           : <image class="dropshadow" src="assets/features/lightdark.png" width="280"/>
     fontawesome_icon_name                 : adjust
 
   - title                                 : Textbox always on top
-    description                           : <image src="assets/features/textup.png" width="280"/>
+    description                           : <image class="dropshadow" src="assets/features/textup.png" width="280"/>
     fontawesome_icon_name                 : arrow-up
 
   - title                                 : Auto trimming
-    description                           : <image src="assets/features/autotrim.png" width="280"/>
+    description                           : <image class="dropshadow" src="assets/features/autotrim.png" width="280"/>
     fontawesome_icon_name                 : cut
 
   - title                                 : Remove ads
-    description                           : <image src="assets/features/ads.png" width="280"/>
+    description                           : <image class="dropshadow" src="assets/features/ads.png" width="280"/>
     fontawesome_icon_name                 : times
 
   - title                                 : Remove watermark
-    description                           : <image src="assets/features/watermark.jpg" width="280"/>
+    description                           : <image class="dropshadow" src="assets/features/watermark.jpg" width="280"/>
     fontawesome_icon_name                 : tint
 
   - title                                 : Customised Signature
-    description                           : <image src="assets/features/signature.jpg" width="280"/>
+    description                           : <image class="dropshadow" src="assets/features/signature.jpg" width="280"/>
     fontawesome_icon_name                 : pencil-alt
 
   - title                                 : Buy me a coffee
-    description                           : <image src="assets/features/coffee.jpg" width="280"/>
+    description                           : <image class="dropshadow" src="assets/features/coffee.jpg" width="280"/>
     fontawesome_icon_name                 : coffee
     
   - title                                 : Statistic
-    description                           : <image src="assets/features/stat.jpg" width="280"/>
+    description                           : <image class="dropshadow" src="assets/features/stat.jpg" width="280"/>
     fontawesome_icon_name                 : chart-line
 
   - title                                 : Easter Egg!?
