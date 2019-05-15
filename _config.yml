@@ -67,7 +67,7 @@ features                                  :
     fontawesome_icon_name                 : times
 
   - title                                 : Remove watermark
-    description                           : <image src="assets/features/watermark.png" width="280"/>
+    description                           : <image src="assets/features/watermark.jpg" width="280"/>
     fontawesome_icon_name                 : tint
 
   - title                                 : Customised Signature
@@ -92,7 +92,7 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.75
 topbar_title_color                        : "#ffff00"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_image                               : assets/headerimage.jpeg                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#000000"
 cover_overlay_transparency                : 0.8
 
