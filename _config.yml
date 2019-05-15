@@ -38,7 +38,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Top memes template
-    description                           : <image src="assets/appicon.png" width="300"/> Be on top of your meme game with the access to top 100 templates, thanks to the courtesy of Imgflip API and more in the future.
+    description                           : <image src="assets/appicon.png" width="280"/> Be on top of your meme game with the access to top 100 templates, thanks to the courtesy of Imgflip API and more in the future.
     fontawesome_icon_name                 : cat
     
   - title                                 : Image and text anywhere
