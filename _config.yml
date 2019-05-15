@@ -59,27 +59,28 @@ features                                  :
     fontawesome_icon_name                 : arrow-up
 
   - title                                 : Auto trimming
-    description                           : Auto trimming upon sharing, just put images and text anywhere on the canvas
+    description                           : <image src="assets/features/autotrim.png" width="280"/>
     fontawesome_icon_name                 : cut
 
   - title                                 : Remove ads
-    description                           : Get rid of ads and support the development of Memes iOS, by unlocking the advanced setting IAP.
+    description                           : <image src="assets/features/ads.png" width="280"/>
     fontawesome_icon_name                 : times
 
   - title                                 : Remove watermark
-    description                           : Remove watermarkt and support the development of Memes iOS, by unlocking the advanced setting IAP.
+    description                           : <image src="assets/features/watermark.png" width="280"/>
     fontawesome_icon_name                 : tint
 
   - title                                 : Customised Signature
-    description                           : Use your own text for watermark, by unlocking the advanced setting IAP.
+    description                           : <image src="assets/features/signature.jpg" width="280"/>
     fontawesome_icon_name                 : pencil-alt
 
   - title                                 : Buy me a coffee
-    description                           : Those who got the advanced settings, when they get some Reddit gold, they can share the love as well.
+    description                           : <image src="assets/features/coffee.jpg" width="280"/>
     fontawesome_icon_name                 : coffee
     
   - title                                 : Statistic
-    description                           : There is scientifically show how much you love making memes.
+    description                           : <image src="assets/features/stat
+    .jpg" width="280"/>
     fontawesome_icon_name                 : chart-line
 
   - title                                 : Easter Egg!?
