@@ -55,7 +55,7 @@ features                                  :
     fontawesome_icon_name                 : adjust
 
   - title                                 : Textbox always on top
-    description                           : <image src="assets/features/textup.png" width="280" style="box-shadow: 0px 0px 3px 3px #111111;"/>
+    description                           : <image src="assets/features/textup.png" width="280"/>
     fontawesome_icon_name                 : arrow-up
 
   - title                                 : Auto trimming
